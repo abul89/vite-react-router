@@ -1,12 +1,11 @@
 {
-  "homepage":"https//abul89.github.io/crm/",
+
   "name": "crm-dashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist",
+    
     "dev": "vite",
     "build": "vite build",
  
